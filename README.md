@@ -61,7 +61,7 @@ Netflix-Stock-Predictor/
 
 Shows how Netflix's closing stock price changes over time.
 
-![Closing Price Trend](images/closing_price_trend.png)
+![Closing Price Trend](images/Closing%20Price%20Trend.png)
 
 ---
 
@@ -69,7 +69,7 @@ Shows how Netflix's closing stock price changes over time.
 
 Displays the correlation between stock features.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/Correlation%20Heatmap.png)
 
 ---
 
@@ -77,7 +77,7 @@ Displays the correlation between stock features.
 
 Shows the daily trading volume.
 
-![Trading Volume](images/volume_traded_over_time.png)
+![Volume Traded Over Time](images/Volume%20Traded%20Over%20Time.png)
 
 ---
 
@@ -105,7 +105,7 @@ Shows the daily trading volume.
 
 Comparison of Actual vs Predicted Closing Prices.
 
-![Prediction](images/stock_price_prediction.png)
+![Stock Price Prediction](images/Stock%20Price%20Prediction.png)
 
 ---
 
@@ -113,7 +113,7 @@ Comparison of Actual vs Predicted Closing Prices.
 
 Regression line showing the relationship between actual and predicted values.
 
-![Regression Line](images/regression_line.png)
+![Regression Line](images/Regression%20Line.png)
 
 ---
 
